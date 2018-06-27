@@ -1,7 +1,7 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 var Table = require("cli-table");
-const gUI = "\n----------------------------------------------------------------\n"; 
+const gUI = "----------------------------------------------------------------"; 
 const spacers = "                         ";// help with layout
 const cb = (err) => { if(err) throw (err); } // trapping error
 
@@ -25,7 +25,6 @@ var connection = mysql.createConnection({
 
 function tryAgain(){
     console.log(" ");
-    console.log(gUI);
     inquirer.prompt([
         {   type: "confirm",
             name: "attempt",
