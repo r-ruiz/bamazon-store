@@ -21,7 +21,7 @@ var connection = mysql.createConnection({
     database: "bamazondb"
   });
 
-// Looping feature to return user to customer menu
+// Looping feature to return user to manager's menu
 
 function tryAgain(){
     console.log(" ");
