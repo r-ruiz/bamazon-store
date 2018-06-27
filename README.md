@@ -5,9 +5,9 @@
 This application is a point of sale system that allows a user to purchase items stored in a database and a manager to update or add new products.
 
 This CLI node application uses the following npm packages: 
-[inquirer](https://www.npmjs.com/package/inquirer) 
-[cli-table](https://www.npmjs.com/package/cli-table)
-[mysql](https://www.npmjs.com/package/mysql)
+- [inquirer](https://www.npmjs.com/package/inquirer) 
+- [cli-table](https://www.npmjs.com/package/cli-table)
+- [mysql](https://www.npmjs.com/package/mysql)
 
 There are two interfaces: 
 - **Customer purchasing (bamazonCustomer.js)** 
