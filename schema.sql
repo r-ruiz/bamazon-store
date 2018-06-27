@@ -1,6 +1,6 @@
-create database bamazondb;
-use bamazondb;
-create table store_items (
+CREATE DATABASE bamazondb;
+USE bamazondb;
+CREATE TABLE store_items (
 product_id INT NOT NULL AUTO_INCREMENT,
 product_name VARCHAR(45) NOT NULL,
 department_name VARCHAR(45) NOT NULL,
@@ -8,6 +8,8 @@ price DECIMAL(11,2),
 stock_quantity int(11),
 PRIMARY KEY (product_id)
 );
+
+// Below are sample products
 
 INSERT INTO store_items (product_name, department_name, price, stock_quantity)
 VALUES  ('Basketball', 'Sports', 15.5, 45),
