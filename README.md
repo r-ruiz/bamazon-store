@@ -18,9 +18,7 @@ The customer interface offers the following when launched:
 
                          Customer's Menu
 
-----------------------------------------------------------------
-
-? What would you like to do: (Use arrow keys)
+ What would you like to do: (Use arrow keys)
 > Display all products
   Purchase a product
   Quit
@@ -28,8 +26,6 @@ The customer interface offers the following when launched:
 Display all products:
 
 ----------------------------------------------------------------
-
-? Would you like to return to the Customer Menu? (Y/n)
 
 There is an option to select one of the products and purchase as many as the user request as long as there is enough quantity in the database.
 
@@ -40,9 +36,7 @@ The manager interface offers the following when launched:
 
                          manager's Menu
 
-----------------------------------------------------------------
-
-? What would you like to do: (Use arrow keys)
+ What would you like to do: (Use arrow keys)
 > Display all products for sale
   Display low inventory
   Add to Inventory
