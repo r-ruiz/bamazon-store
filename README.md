@@ -121,3 +121,5 @@ Low Inventory Items (Less than 5)
 There is also options to add more units to an item already in the database or add a new product to the list.
 
 ### Bamazon Demo
+
+[Demo](https://drive.google.com/file/d/1Jaf5S4O5Zjx3PUQc-UaT0efTx3be8nJ_/view)
