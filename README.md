@@ -1,6 +1,6 @@
-# bamazon-store
+# Bamazon Store
 
-## Description
+### Description
 
 This application is a point of sale system that allows a user to purchase items stored in a database and a manager to update or add new products.
 
