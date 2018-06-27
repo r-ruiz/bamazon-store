@@ -85,7 +85,7 @@ There is an option to select one of the products and purchase as many as the use
 The manager interface offers the following when launched:
 ```sh
 ----------------------------------------------------------------
-                         manager's Menu
+                         Manager's Menu
 ----------------------------------------------------------------
 ? What would you like to do: (Use arrow keys)
 > Display all products for sale
@@ -97,7 +97,7 @@ The manager interface offers the following when launched:
 This is what is displayed on low inventory:
 ```sh
 ----------------------------------------------------------------
-                         manager's Menu
+                         Manager's Menu
 ----------------------------------------------------------------
 ? What would you like to do: Display low inventory
 ----------------------------------------------------------------

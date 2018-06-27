@@ -72,7 +72,7 @@ function checkPrice(value){
 
 function manOptions(){
     console.log(gUI);
-    console.log(spacers + "manager's Menu");
+    console.log(spacers + "Manager's Menu");
     console.log(gUI);
     inquirer.prompt([
         {
