@@ -103,14 +103,12 @@ function custPurch(){
             name: "itemID",
             message: "Please enter the Product's ID number you wish to purchase:",
             validate: checkInput,
-            filter: Number
         },
         {
             type: "input",
             name: "quantity",
             message: "How many do you want?",
             validate: checkInput,
-            filter: Number
         }
     ]).then(function(userInput) {
         var product = userInput.itemID;
