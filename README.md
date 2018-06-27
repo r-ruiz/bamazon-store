@@ -122,4 +122,4 @@ There is also options to add more units to an item already in the database or ad
 
 ### Bamazon Demo
 
-[Demo](https://drive.google.com/file/d/1Jaf5S4O5Zjx3PUQc-UaT0efTx3be8nJ_/view)
+[Demo](https://drive.google.com/file/d/10q4KbXaFv-7y-pYeP8iMy_6x9XZ5mMd1/view)
