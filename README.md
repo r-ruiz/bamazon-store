@@ -19,8 +19,10 @@ The customer interface offers the following when launched:
                          Customer's Menu
 
  What would you like to do: (Use arrow keys)
-> Display all products
+-> Display all products
+
   Purchase a product
+
   Quit
 
 Display all products:
@@ -37,10 +39,14 @@ The manager interface offers the following when launched:
                          manager's Menu
 
  What would you like to do: (Use arrow keys)
-> Display all products for sale
+-> Display all products for sale
+
   Display low inventory
+
   Add to Inventory
+
   Add new product
+  
   Quit
 
 There is also options to add more units to an item already in the database or add a new product to the list.
