@@ -1,7 +1,8 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 var Table = require("cli-table");
-const gUI = "\n-----------------------------------------------------\n"; // help with layout
+const gUI = "\n----------------------------------------------------------------\n";  
+const spacers = "                         "// help with layout
 const cb = (err) => { if(err) throw (err); } // trapping error
 
 //connection to the database
@@ -59,7 +60,7 @@ function checkInput(value){
 
 function custOptions(){
     console.log(gUI);
-    console.log("Customer Menu");
+    console.log(spacers + "Customer's Menu");
     console.log(gUI);
     inquirer.prompt([
         {
@@ -95,7 +96,7 @@ function custOptions(){
 function custPurch(){
     var query = "SELECT * FROM store_items WHERE ?;"
     console.log(gUI);
-    console.log("Purchase an Item");
+    console.log(spacers + "Purchase an Item");
     console.log(gUI);
     inquirer.prompt([
         {
