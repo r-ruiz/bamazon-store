@@ -10,8 +10,8 @@ This CLI node application uses the following npm packages:
 - [mysql](https://www.npmjs.com/package/mysql)
 
 There are two interfaces: 
-- **Customer purchasing (bamazonCustomer.js)** 
-- **Manager inventory (bamazonManager.js)**.
+- Customer purchasing (bamazonCustomer.js) 
+- Manager inventory (bamazonManager.js)
 
 ### Customer Interface
 
