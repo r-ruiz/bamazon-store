@@ -236,7 +236,8 @@ function displayAll(){
     });
 
     connection.query(query, function (cb, data){
-        console.log("Product Catalog");
+        console.log(gUI);
+        console.log(spacers + "Product Catalog");
         console.log(gUI);
         var prodDisp ="";
         for (var i = 0; i < data.length; i++){

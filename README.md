@@ -33,7 +33,8 @@ Display all products:
                          Customer's Menu
 ----------------------------------------------------------------
 ? What would you like to do: Display all products
-Product Catalog
+----------------------------------------------------------------
+                         Product Catalog
 ----------------------------------------------------------------
 ┌────────────┬──────────────┬────────────┬────────┐
 │ Product ID │ Product Name │ Department │ Price  │
